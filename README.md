@@ -39,5 +39,5 @@ License Management System — это веб-приложение для упра
 ## Запуск проекта
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/your-repo/license-management.git
+git clone https://github.com/License_Management_System/license-management.git
 cd license-management
